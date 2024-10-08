@@ -5,4 +5,9 @@ public class Laptop implements Chargeable
     {
         System.out.println("Charging laptop!!!");
     }
+    public void bob()
+    {
+        System.out.println("I bob");
+    }
+
 }

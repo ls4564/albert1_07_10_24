@@ -5,4 +5,8 @@ public class Phone implements Chargeable
     {
         System.out.println("Charging Phone!!!");
     }
+    public void dod()
+    {
+        System.out.println("I dod");
+    }
 }

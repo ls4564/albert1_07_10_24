@@ -5,4 +5,8 @@ public class Tablet implements Chargeable
     {
         System.out.println("Charging Tablet!!!");
     }
+    public void ror()
+    {
+        System.out.println("I ror");
+    }
 }
